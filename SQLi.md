@@ -1,8 +1,4 @@
-# Complaint Management System v1.0 has SQL injection
-
 BUG_Author:Qin Yiqun
-
-Website source address:https://www.sourcecodester.com/php/14206/complaint-management-system.html
 
 Vulnerability File: /Complaint Management System/users/check_availability.php
 
